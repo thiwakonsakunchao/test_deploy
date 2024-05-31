@@ -1,0 +1,160 @@
+{
+  "events": [
+    {
+      "haveCars": false,
+      "resultScan": true
+    }
+  ],
+  "days": [
+    {
+      "date": "2023-01-01",
+      "hours": [
+        {"hour": "00:00", "amountCars": 10},
+        {"hour": "01:00", "amountCars": 8},
+        {"hour": "02:00", "amountCars": 12},
+        {"hour": "03:00", "amountCars": 15},
+        {"hour": "04:00", "amountCars": 20},
+        {"hour": "05:00", "amountCars": 25},
+        {"hour": "06:00", "amountCars": 30},
+        {"hour": "07:00", "amountCars": 35},
+        {"hour": "08:00", "amountCars": 40},
+        {"hour": "09:00", "amountCars": 22},
+        {"hour": "10:00", "amountCars": 13},
+        {"hour": "11:00", "amountCars": 33},
+        {"hour": "12:00", "amountCars": 12},
+        {"hour": "13:00", "amountCars": 12},
+        {"hour": "14:00", "amountCars": 34},
+        {"hour": "15:00", "amountCars": 12},
+        {"hour": "16:00", "amountCars": 25},
+        {"hour": "17:00", "amountCars": 16},
+        {"hour": "18:00", "amountCars": 4},
+        {"hour": "19:00", "amountCars": 1},
+        {"hour": "20:00", "amountCars": 23},
+        {"hour": "21:00", "amountCars": 11},
+        {"hour": "22:00", "amountCars": 32},
+        {"hour": "23:00", "amountCars": 40}
+      ],
+      "parkings": [
+        {"times": "10:00", "amountSpaces": 4, "totalSpaces": 13, "imageParking": "https://ae03.alicdn.com/kf/Se77e7729d72e4f20b818dc2730ac3a4a8.jpg_640x640q90.jpg"},
+        {"times": "10:01", "amountSpaces": 6, "totalSpaces": 13, "imageParking": "https://ae03.alicdn.com/kf/Se77e7729d72e4f20b818dc2730ac3a4a8.jpg_640x640q90.jpg"},
+        {"times": "10:02", "amountSpaces": 9, "totalSpaces": 13, "imageParking": "https://ae03.alicdn.com/kf/Se77e7729d72e4f20b818dc2730ac3a4a8.jpg_640x640q90.jpg"},
+        {"times": "10:03", "amountSpaces": 3, "totalSpaces": 13, "imageParking": "https://ae03.alicdn.com/kf/Se77e7729d72e4f20b818dc2730ac3a4a8.jpg_640x640q90.jpg"},
+        {"times": "10:04", "amountSpaces": 3, "totalSpaces": 13, "imageParking": "https://ae03.alicdn.com/kf/Se77e7729d72e4f20b818dc2730ac3a4a8.jpg_640x640q90.jpg"},
+        {"times": "10:05", "amountSpaces": 5, "totalSpaces": 13, "imageParking": "https://ae03.alicdn.com/kf/Se77e7729d72e4f20b818dc2730ac3a4a8.jpg_640x640q90.jpg"},
+        {"times": "10:06", "amountSpaces": 5, "totalSpaces": 13, "imageParking": "https://ae03.alicdn.com/kf/Se77e7729d72e4f20b818dc2730ac3a4a8.jpg_640x640q90.jpg"},
+        {"times": "10:07", "amountSpaces": 5, "totalSpaces": 13, "imageParking": "https://ae03.alicdn.com/kf/Se77e7729d72e4f20b818dc2730ac3a4a8.jpg_640x640q90.jpg"},
+        {"times": "10:08", "amountSpaces": 8, "totalSpaces": 13, "imageParking": "https://ae03.alicdn.com/kf/Se77e7729d72e4f20b818dc2730ac3a4a8.jpg_640x640q90.jpg"},
+        {"times": "10:09", "amountSpaces": 10, "totalSpaces": 13, "imageParking": "https://ae03.alicdn.com/kf/Se77e7729d72e4f20b818dc2730ac3a4a8.jpg_640x640q90.jpg"},
+        {"times": "10:10", "amountSpaces": 12, "totalSpaces": 13, "imageParking": "https://ae03.alicdn.com/kf/Se77e7729d72e4f20b818dc2730ac3a4a8.jpg_640x640q90.jpg"}
+      ]
+    },
+    {
+      "date": "2023-01-02",
+      "hours": [
+        {"hour": "00:00", "amountCars": 12},
+        {"hour": "01:00", "amountCars": 10},
+        {"hour": "02:00", "amountCars": 14},
+        {"hour": "03:00", "amountCars": 17},
+        {"hour": "04:00", "amountCars": 22},
+        {"hour": "05:00", "amountCars": 27},
+        {"hour": "06:00", "amountCars": 32},
+        {"hour": "07:00", "amountCars": 37},
+        {"hour": "08:00", "amountCars": 42},
+        {"hour": "09:00", "amountCars": 47},
+        {"hour": "10:00", "amountCars": 52},
+        {"hour": "11:00", "amountCars": 57},
+        {"hour": "12:00", "amountCars": 62},
+        {"hour": "13:00", "amountCars": 67},
+        {"hour": "14:00", "amountCars": 72},
+        {"hour": "15:00", "amountCars": 77},
+        {"hour": "16:00", "amountCars": 82},
+        {"hour": "17:00", "amountCars": 87},
+        {"hour": "18:00", "amountCars": 92},
+        {"hour": "19:00", "amountCars": 97},
+        {"hour": "20:00", "amountCars": 102},
+        {"hour": "21:00", "amountCars": 107},
+        {"hour": "22:00", "amountCars": 112},
+        {"hour": "23:00", "amountCars": 117}
+      ],
+      "parkings": [
+        {"times": "9:00", "amountSpaces": 4, "totalSpaces": 13, "imageParking": "https://ae03.alicdn.com/kf/Se77e7729d72e4f20b818dc2730ac3a4a8.jpg_640x640q90.jpg"},
+        {"times": "9:01", "amountSpaces": 12, "totalSpaces": 13, "imageParking": "https://ae03.alicdn.com/kf/Se77e7729d72e4f20b818dc2730ac3a4a8.jpg_640x640q90.jpg"},
+        {"times": "9:02", "amountSpaces": 9, "totalSpaces": 13, "imageParking": "https://ae03.alicdn.com/kf/Se77e7729d72e4f20b818dc2730ac3a4a8.jpg_640x640q90.jpg"},
+        {"times": "9:03", "amountSpaces": 3, "totalSpaces": 13, "imageParking": "https://ae03.alicdn.com/kf/Se77e7729d72e4f20b818dc2730ac3a4a8.jpg_640x640q90.jpg"},
+        {"times": "9:04", "amountSpaces": 3, "totalSpaces": 13, "imageParking": "https://ae03.alicdn.com/kf/Se77e7729d72e4f20b818dc2730ac3a4a8.jpg_640x640q90.jpg"},
+        {"times": "9:05", "amountSpaces": 4, "totalSpaces": 13, "imageParking": "https://ae03.alicdn.com/kf/Se77e7729d72e4f20b818dc2730ac3a4a8.jpg_640x640q90.jpg"},
+        {"times": "9:06", "amountSpaces": 5, "totalSpaces": 13, "imageParking": "https://ae03.alicdn.com/kf/Se77e7729d72e4f20b818dc2730ac3a4a8.jpg_640x640q90.jpg"},
+        {"times": "9:07", "amountSpaces": 5, "totalSpaces": 13, "imageParking": "https://ae03.alicdn.com/kf/Se77e7729d72e4f20b818dc2730ac3a4a8.jpg_640x640q90.jpg"},
+        {"times": "9:08", "amountSpaces": 8, "totalSpaces": 13, "imageParking": "https://ae03.alicdn.com/kf/Se77e7729d72e4f20b818dc2730ac3a4a8.jpg_640x640q90.jpg"},
+        {"times": "9:09", "amountSpaces": 9, "totalSpaces": 13, "imageParking": "https://ae03.alicdn.com/kf/Se77e7729d72e4f20b818dc2730ac3a4a8.jpg_640x640q90.jpg"},
+        {"times": "9:10", "amountSpaces": 12, "totalSpaces": 13, "imageParking": "https://ae03.alicdn.com/kf/Se77e7729d72e4f20b818dc2730ac3a4a8.jpg_640x640q90.jpg"}
+      ]
+    },
+    {
+      "date": "2023-01-03",
+      "hours": [
+        {"hour": "00:00", "amountCars": 14},
+        {"hour": "01:00", "amountCars": 12},
+        {"hour": "02:00", "amountCars": 16},
+        {"hour": "03:00", "amountCars": 19},
+        {"hour": "04:00", "amountCars": 24},
+        {"hour": "05:00", "amountCars": 29},
+        {"hour": "06:00", "amountCars": 34},
+        {"hour": "07:00", "amountCars": 39},
+        {"hour": "08:00", "amountCars": 44},
+        {"hour": "09:00", "amountCars": 49},
+        {"hour": "10:00", "amountCars": 54},
+        {"hour": "11:00", "amountCars": 59},
+        {"hour": "12:00", "amountCars": 64},
+        {"hour": "13:00", "amountCars": 69},
+        {"hour": "14:00", "amountCars": 74},
+        {"hour": "15:00", "amountCars": 79},
+        {"hour": "16:00", "amountCars": 84},
+        {"hour": "17:00", "amountCars": 89},
+        {"hour": "18:00", "amountCars": 94},
+        {"hour": "19:00", "amountCars": 99},
+        {"hour": "20:00", "amountCars": 104},
+        {"hour": "21:00", "amountCars": 109},
+        {"hour": "22:00", "amountCars": 114},
+        {"hour": "23:00", "amountCars": 119}
+      ],
+      "parkings": [
+        {"times": "8:00", "amountSpaces": 4, "totalSpaces": 13, "imageParking": "https://ae03.alicdn.com/kf/Se77e7729d72e4f20b818dc2730ac3a4a8.jpg_640x640q90.jpg"},
+        {"times": "8:01", "amountSpaces": 12, "totalSpaces": 13, "imageParking": "https://ae03.alicdn.com/kf/Se77e7729d72e4f20b818dc2730ac3a4a8.jpg_640x640q90.jpg"},
+        {"times": "8:02", "amountSpaces": 9, "totalSpaces": 13, "imageParking": "https://ae03.alicdn.com/kf/Se77e7729d72e4f20b818dc2730ac3a4a8.jpg_640x640q90.jpg"},
+        {"times": "8:03", "amountSpaces": 13, "totalSpaces": 13, "imageParking": "https://ae03.alicdn.com/kf/Se77e7729d72e4f20b818dc2730ac3a4a8.jpg_640x640q90.jpg"},
+        {"times": "8:04", "amountSpaces": 13, "totalSpaces": 13, "imageParking": "https://ae03.alicdn.com/kf/Se77e7729d72e4f20b818dc2730ac3a4a8.jpg_640x640q90.jpg"},
+        {"times": "8:05", "amountSpaces": 12, "totalSpaces": 13, "imageParking": "https://ae03.alicdn.com/kf/Se77e7729d72e4f20b818dc2730ac3a4a8.jpg_640x640q90.jpg"},
+        {"times": "8:06", "amountSpaces": 5, "totalSpaces": 13, "imageParking": "https://ae03.alicdn.com/kf/Se77e7729d72e4f20b818dc2730ac3a4a8.jpg_640x640q90.jpg"},
+        {"times": "8:07", "amountSpaces": 5, "totalSpaces": 13, "imageParking": "https://ae03.alicdn.com/kf/Se77e7729d72e4f20b818dc2730ac3a4a8.jpg_640x640q90.jpg"},
+        {"times": "8:08", "amountSpaces": 8, "totalSpaces": 13, "imageParking": "https://ae03.alicdn.com/kf/Se77e7729d72e4f20b818dc2730ac3a4a8.jpg_640x640q90.jpg"},
+        {"times": "8:09", "amountSpaces": 8, "totalSpaces": 13, "imageParking": "https://ae03.alicdn.com/kf/Se77e7729d72e4f20b818dc2730ac3a4a8.jpg_640x640q90.jpg"},
+        {"times": "8:10", "amountSpaces": 12, "totalSpaces": 13, "imageParking": "https://ae03.alicdn.com/kf/Se77e7729d72e4f20b818dc2730ac3a4a8.jpg_640x640q90.jpg"}
+      ]
+    }
+  ],
+  "licenseplates": [
+    {"firstname": "Thiwakon", "lastname": "sakunchao", "number": "งง555", "province": "กรุงเทพมหานคร"},
+    {"firstname": "Thaipat", "lastname": "Sukhumpraisan ", "number": "จบ4532", "province": "กรุงเทพมหานคร"},
+    {"firstname": "Suphakin", "lastname": "Fraser", "number": "หรง888", "province": "เชียงใหม่"},
+    {"firstname": "Phiriyakorn", "lastname": "Maneekongrit", "number": "5งง887", "province": "เชียงราย"},
+    {"firstname": "Thanakorn", "lastname": "Waleejaroenpong", "number": "9รถ555", "province": "ตาก"},
+    {"firstname": "Pattanachai", "lastname": "Nuyamang", "number": "2กง7776", "province": "เลย"},
+    {"firstname": "Pharanya", "lastname": "Liwiriyasakul", "number": "1คส8989", "province": "แพร่"},
+    {"firstname": "Taninwat", "lastname": "Phuttichaiwarangkul", "number": "1กขง1111", "province": "ลำปาง"},
+    {"firstname": "Kla", "lastname": "Danaikrit ", "number": "ญญ69", "province": "น่าน"},
+    {"firstname": "Vee", "lastname": "Sorawee", "number": "กก888", "province": "ลำพูน"}
+  ],
+  "entranceexit": [
+    {"date": "2023-01-03", "time": "10:01", "number": "งง555", "province": "กรุงเทพมหานคร", "status": "Out"},
+    {"date": "2023-01-03", "time": "10:02", "number": "จบ4532", "province": "กรุงเทพมหานคร", "status": "In"},
+    {"date": "2023-01-03", "time": "10:03", "number": "หรง888", "province": "เชียงใหม่", "status": "Out"},
+    {"date": "2023-01-03", "time": "10:04", "number": "5งง887", "province": "เชียงราย", "status": "In"},
+    {"date": "2023-01-03", "time": "10:05", "number": "9รถ555", "province": "ตาก", "status": "Out"},
+    {"date": "2023-01-03", "time": "10:06", "number": "2กง7776", "province": "เลย", "status": "In"},
+    {"date": "2023-01-03", "time": "10:07", "number": "1คส8989", "province": "แพร่", "status": "Out"},
+    {"date": "2023-01-03", "time": "10:08", "number": "1กขง1111", "province": "ลำปาง", "status": "Out"},
+    {"date": "2023-01-03", "time": "10:09", "number": "ญญ69", "province": "น่าน", "status": "In"},
+    {"date": "2023-01-03", "time": "10:10", "number": "กก888", "province": "ลำพูน", "status": "In"}
+  ]
+}
